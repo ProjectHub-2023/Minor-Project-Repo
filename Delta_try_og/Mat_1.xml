@@ -1,0 +1,2432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="05/13/23||11:28:31" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.5.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Mat_1" uid="Mat_1" version="294">
+<AssemblyFile name="Mat_1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="KCRM-06-01-3" uid="KCRM-06-01-3" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>-0.64903640791747008 -0.64170258741252917 -0.40861905303797669 -0.18883639997773388 -0.38441852433015594 0.90363887266721488 -0.73694813605913745 0.66365667890852331 0.12832481170479965</Rotation>
+<Translation>0.15105801075554787 0.19116102831524212 0.46158324241232129</Translation>
+</Transform>
+</Instance>
+<Instance name="lower_link-2" uid="lower_link-2" entityUid="lower_link*:*Default">
+<Transform>
+<Rotation>0.42594187017924179 0.64170258741252906 -0.63780193832903598 0.5409716868293909 0.38441852433015566 0.74804547468772842 0.72520559655670991 -0.66365667890852342 -0.18340298597060964</Rotation>
+<Translation>0.14046991806340559 0.18481812266373279 0.47253357761443332</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-5" uid="KCRM-06-01-5" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>-0.5948320752527555 0.0036597927454037173 -0.80384165615347458 0.52424893357864211 -0.75629646321793176 -0.39138052502098769 -0.60937497314228184 -0.65421882091629568 0.44795075227834491</Rotation>
+<Translation>0.080529131805011117 -0.11146794288544014 0.25447901191913674</Translation>
+</Transform>
+</Instance>
+<Instance name="lower_link-3" uid="lower_link-3" entityUid="lower_link*:*Default">
+<Transform>
+<Rotation>0.40834157078301897 -0.0036597927454034601 -0.91282187062291475 -0.59606298776258981 0.7562964632179312 -0.26967494200163078 0.69135090669644117 0.65421882091629635 0.3066458187696347</Rotation>
+<Translation>0.08058951838561218 -0.12394683452846975 0.24368440137385766</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-6" uid="KCRM-06 -02-6" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>4.2232218858897274e-13 1.0314285788504009e-12 1.0000000000000002 -0.74740546116024387 -0.66436817851839003 1.0008942363231971e-12 0.66436817851839003 -0.74740546116024387 4.9031792944878301e-13</Rotation>
+<Translation>0.079259183771524577 0.15096692984484977 0.48149294277115212</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-8" uid="KCRM-06 -02-8" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>-0.58413130845307537 0.63936735488004282 0.49999999999859562 0.33724836817394721 -0.36913891445173491 0.8660254037852495 0.73827782890244487 0.67449673635318075 2.6522870940926724e-12</Rotation>
+<Translation>0.080711434311636604 0.21080538711919389 0.48149294277835314</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-10" uid="KCRM-06-01-10" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>0.76648341661890174 0.64170258741253083 0.026850723570850138 -0.35173638950856706 0.38441852433015383 0.85352440530268625 0.5373869037701724 -0.66365667890852276 0.52036057517496193</Rotation>
+<Translation>0.33922773096518877 0.33943547534357743 0.25120407519844007</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-11" uid="KCRM-06 -02-11" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>0.80067962297796569 -0.33001839546887229 -0.50000000000001377 -0.46227259586099329 0.19053620946148889 -0.86602540378443083 0.38107241892296734 0.92454519172196159 0</Rotation>
+<Translation>-0.18520314595841939 0.32210178117124344 0.23586684972183436</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-4" uid="KCRM-06-01-4" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>0.76186850539753748 0.64170258741252828 0.088171252635931799 -0.41898590522892576 0.38441852433015578 0.82260148879717165 0.49397084094389632 -0.6636566789085242 0.56174070605332449</Rotation>
+<Translation>0.35447773096528157 0.31302170052802003 0.2512040751984323</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-5" uid="KCRM-06 -02-5" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>8.7449322960885352e-15 5.8586059824484466e-15 -1 0.82371771918252246 0.56700010503062781 1.0525185892720962e-14 0.56700010503062781 -0.82371771918252257 1.3253997291641362e-16</Rotation>
+<Translation>0.080638925587429383 -0.13415683678182727 0.23485244729171836</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-11" uid="KCRM-06-01-11" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>0.47625000487377128 -0.66489278585446765 -0.5754159505752493 0.87928245114502357 0.36527896251016506 0.30566918499563628 0.0069501054763141676 -0.65152809829368252 0.7585926661705118</Rotation>
+<Translation>-0.16525636238268454 0.31114341229590164 0.25541269267074795</Translation>
+</Transform>
+</Instance>
+<Instance name="lower_link-5" uid="lower_link-5" entityUid="lower_link*:*Default">
+<Transform>
+<Rotation>0.72475226056459896 0.64170258741252884 0.25090227203947257 -0.58702163409689101 0.38441852433015544 0.71248017463929592 0.36074889037766933 -0.66365667890852365 0.65530149597829324</Rotation>
+<Translation>0.12521991806329352 0.21123189747926283 0.47253357761449483</Translation>
+</Transform>
+</Instance>
+<Instance name="lower_link-6" uid="lower_link-6" entityUid="lower_link*:*Default">
+<Transform>
+<Rotation>0.55292914056307652 0.66489278585446887 -0.50218218689521543 -0.34574131705030758 -0.36527896251016312 -0.8643114144981644 -0.75811101245167012 0.65152809829368252 0.027907524672055428</Rotation>
+<Translation>-0.17622709334932751 0.31717051517723627 0.24466247904890054</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-6" uid="KCRM-06-01-6" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>0.93762758598498885 -0.0036597927454041779 -0.34762208778646836 -0.22482867533617384 0.75629646321793254 -0.61438402198513253 0.26515387371589316 0.65421882091629491 0.70830160074106052</Rotation>
+<Translation>0.079368977504990348 0.12827803595472387 0.46186637814943204</Translation>
+</Transform>
+</Instance>
+<Instance name="lower_link-4" uid="lower_link-4" entityUid="lower_link*:*Default">
+<Transform>
+<Rotation>0.26121698073687372 0.66489278585446776 -0.69977372935356508 -0.70347330660711394 -0.36527896251016356 -0.60966924347448592 -0.66097730359367501 0.65152809829368319 0.37231725889065548</Rotation>
+<Translation>-0.16097709334931004 0.34358428999260959 0.24466247904893532</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-12" uid="KCRM-06 -02-12" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>0.85888257078676611 0.11099878197583937 -0.49999999999859557 -0.49587608344376771 -0.064085176656268783 -0.86602540378524939 -0.12817035330834156 0.99175216689090973 -2.6522870940926724e-12</Rotation>
+<Translation>0.065461434311402555 0.18439161230390089 0.48149294277830879</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-9" uid="KCRM-06 -02-9" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>-0.85014346724621748 -0.16509417039126267 0.5000000000014001 -0.4908305596666564 -0.095317163715235284 -0.86602540378363024 0.1906343274331678 -0.98166111932993649 -1.9002717818691463e-12</Rotation>
+<Translation>0.11655693314428185 0.20604224739710023 0.48149294277967436</Translation>
+</Transform>
+</Instance>
+<Instance name="custom_pin-1" uid="custom_pin-1" entityUid="custom_pin*:*Default">
+<Transform>
+<Rotation>0.74999685218704415 0.43301815401844651 0.4999999999999819 0.43301088450154107 0.25000314778653276 -0.86602540378444903 -0.50000629557308374 0.86602176900311345 0</Rotation>
+<Translation>0.36022880858787321 0.34793694216028792 0.23129437483073964</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-9" uid="KCRM-06-01-9" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>-0.64588755042842461 -0.64170258741253094 -0.41357836199399067 -0.19575228417482171 -0.38441852433015461 0.9021659721981129 -0.73790942224768297 0.66365667890852231 0.12267639177201725</Rotation>
+<Translation>0.13580801075543555 0.21757480313076236 0.46158324241237536</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-10" uid="KCRM-06 -02-10" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>0.4524307859539915 -0.73844863323123 -0.49999999999998196 0.26121103606019813 -0.42634351717874136 0.86602540378444914 -0.85268703435751336 -0.52242207212041558 -1.7593086072111503e-16</Rotation>
+<Translation>0.35847880858787345 0.35096803107353353 0.2312943748307397</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-12" uid="KCRM-06-01-12" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>-0.083981408591536674 0.66489278585446987 -0.74220260463680909 -0.90329207116446331 -0.36527896251016173 -0.22502158500667008 -0.42072622592654657 0.65152809829368219 0.63126902343725255</Rotation>
+<Translation>0.045514650733249389 0.19534998118022479 0.4619470998298057</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-7" uid="KCRM-06-01-7" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>0.080665608581497988 -0.66489278585446898 -0.74257029492894466 0.90227802845469329 0.36527896251016284 -0.22905379044104612 0.42354151975938342 -0.65152809829368241 0.62938360176741925</Rotation>
+<Translation>-0.15000636238264922 0.33755718711130761 0.25541269267078359</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-7" uid="KCRM-06 -02-7" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>0.74999999999998646 -0.43301270189222718 0.50000000000001377 -0.43301270189222707 0.25000000000001404 0.86602540378443083 -0.50000000000001366 -0.86602540378443083 3.6583180443338147e-16</Rotation>
+<Translation>-0.1699531459584189 0.34851555598666856 0.23586684972183436</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-4" uid="KCRM-06 -02-4" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>0.74999713543508695 0.43301766342631159 0.49999999999998168 0.43301104803487456 0.25000286454303133 -0.86602540378444925 -0.50000572908608099 0.86602209606978064 -1.7118853501365814e-16</Rotation>
+<Translation>0.37372880858794949 0.32455425625797513 0.2312943748307397</Translation>
+</Transform>
+</Instance>
+<Instance name="custom_pin-2" uid="custom_pin-2" entityUid="custom_pin*:*Default">
+<Transform>
+<Rotation>-0.26107820048881064 -0.82573492915675473 0.50000000000001377 0.1507335693317636 0.47673828362794629 0.86602540378443083 -0.95347656725586649 0.30146713866351871 1.6653345369377348e-16</Rotation>
+<Translation>-0.18345314595841927 0.32513287008448899 0.23586684972183439</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-8" uid="KCRM-06-01-8" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>0.25878824238573539 0.66489278585446876 -0.70067555182237218 -0.70558371443104817 -0.36527896251016256 -0.60722557709403535 -0.65968194422205229 0.65152809829368297 0.37460762085311355</Rotation>
+<Translation>0.0607646507332925 0.22176375599562637 0.46194709982981175</Translation>
+</Transform>
+</Instance>
+<Instance name="New_end_effector_holder-1" uid="New_end_effector_holder-1" entityUid="New_end_effector_holder*:*Default">
+<Transform>
+<Rotation>0.49999999999876971 -0.86602540378514903 -6.6625782821517409e-13 0.86602540378514925 0.49999999999876971 -2.3119043655333973e-12 2.3353592918891902e-12 5.7905337320554896e-13 1</Rotation>
+<Translation>0.09725918373805495 0.18046692985634646 0.47449294277278076</Translation>
+</Transform>
+</Instance>
+<Instance name="custom_pin-5" uid="custom_pin-5" entityUid="custom_pin*:*Default">
+<Transform>
+<Rotation>9.7058627304436679e-13 7.7416372879327736e-13 -1.0000000000000002 -0.42684339701261281 -0.90432555776486445 -1.1143843877223767e-12 -0.90432555776486445 0.42684339701261281 -5.4727929688769444e-13</Rotation>
+<Translation>0.10625918373229967 0.15096692984972948 0.48149294277375654</Translation>
+</Transform>
+</Instance>
+<Instance name="custom_pin-3" uid="custom_pin-3" entityUid="custom_pin*:*Default">
+<Transform>
+<Rotation>8.2570603356202364e-15 -6.5089729544512037e-15 -1 0.79263577264511864 -0.60969544194070846 1.0513332540945955e-14 -0.60969544194070846 -0.79263577264511864 1.2495275642053584e-16</Rotation>
+<Translation>0.10763892558742937 -0.13415683678182758 0.23485244729171834</Translation>
+</Transform>
+</Instance>
+<Instance name="custom_pin-4" uid="custom_pin-4" entityUid="custom_pin*:*Default">
+<Transform>
+<Rotation>-0.74906358610954771 -0.43463058333027837 0.49999999999868583 0.43247206308041186 0.25093408428043024 0.86602540378519732 -0.50186816856588568 0.86494412616094685 2.4736977124493697e-12</Rotation>
+<Translation>0.067211434310253282 0.18742270123217208 0.48149294277175642</Translation>
+</Transform>
+</Instance>
+<Instance name="custom_pin-6" uid="custom_pin-6" entityUid="custom_pin*:*Default">
+<Transform>
+<Rotation>0.75825196843040155 0.41839449371390003 0.50000000000131017 0.43777697808937444 0.24156017357222925 -0.8660254037836822 -0.48312034714588092 0.87555395617497123 -1.7726235851058736e-12</Rotation>
+<Translation>0.11830693313709655 0.20301115847983453 0.48149294278085369</Translation>
+</Transform>
+</Instance>
+<Instance name="link1-3" uid="link1-3" entityUid="link1*:*Default">
+<Transform>
+<Rotation>-1.0524259454447802e-14 -1.6420044874181159e-15 1 -0.99109134076747307 -0.13318391139973687 -1.0649190993463527e-14 0.13318391139973687 -0.99109134076747307 -2.2571439025339033e-16</Rotation>
+<Translation>0.091638925587431669 0.06411744471691895 0.20863586291986005</Translation>
+</Transform>
+</Instance>
+<Instance name="link1-1" uid="link1-1" entityUid="link1*:*Default">
+<Transform>
+<Rotation>0.86023975502644168 0.09993780001611402 -0.49999999999998712 0.49665965413211716 0.057699115741516781 0.86602540378444604 0.11539823148304204 -0.99331930826425918 -3.2031065991087918e-15</Rotation>
+<Translation>0.19613887896225871 0.23472436850556774 0.20863586291980765</Translation>
+</Transform>
+</Instance>
+<Instance name="lower_link-1" uid="lower_link-1" entityUid="lower_link*:*Default">
+<Transform>
+<Rotation>0.9992557212733878 0.0036597927454037481 -0.03840064347719005 0.027888625469710028 -0.75629646321793242 0.65363436590609048 -0.026650104536601917 -0.65421882091629502 -0.75583563443852064</Rotation>
+<Translation>0.10980859092447276 0.1407569275977556 0.4726609886946801</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-3" uid="KCRM-06 -02-3" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>0.71818807831940656 0.48394822466714094 0.50000000000140032 0.41464608034926409 0.2794076377846389 -0.86602540378363002 -0.5588152755704423 0.82929216069436618 -1.9004242624021117e-12</Rotation>
+<Translation>0.13180693314315184 0.17962847258084788 0.48149294277957438</Translation>
+</Transform>
+</Instance>
+<Instance name="XM430-W350-R-2" uid="XM430-W350-R-2" entityUid="XM430-W350-R" rigid="true">
+<Transform>
+<Rotation>0 -0.86602540378443071 0.50000000000001366 0 0.50000000000001366 0.86602540378443071 -1 0 1.0204255741038762e-16</Rotation>
+<Translation>-0.0087578570295955577 0.20879004077295088 0.2081491462894218</Translation>
+</Transform>
+<Instance name="XM430-W350-R.step-1" uid="XM430-W350-R.step-1" grounded="true" entityUid="XM430-W350-R.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Part 14.step-1" uid="Part 14.step-1" grounded="true" entityUid="Part 14.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 15.step-1" uid="Part 15.step-1" grounded="true" entityUid="Part 15.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 16.step-1" uid="Part 16.step-1" grounded="true" entityUid="Part 16.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 1.step-1" uid="Part 1.step-1" grounded="true" entityUid="Part 1.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 6.step-1" uid="Part 6.step-1" grounded="true" entityUid="Part 6.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 8.step-1" uid="Part 8.step-1" grounded="true" entityUid="Part 8.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 10.step-1" uid="Part 10.step-1" grounded="true" entityUid="Part 10.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 5.step-1" uid="Part 5.step-1" grounded="true" entityUid="Part 5.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 11.step-1" uid="Part 11.step-1" grounded="true" entityUid="Part 11.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 12.step-1" uid="Part 12.step-1" grounded="true" entityUid="Part 12.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 13.step-1" uid="Part 13.step-1" grounded="true" entityUid="Part 13.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 9.step-1" uid="Part 9.step-1" grounded="true" entityUid="Part 9.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 3.step-1" uid="Part 3.step-1" grounded="true" entityUid="Part 3.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 4.step-1" uid="Part 4.step-1" grounded="true" entityUid="Part 4.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 2.step-1" uid="Part 2.step-1" grounded="true" entityUid="Part 2.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 7.step-1" uid="Part 7.step-1" grounded="true" entityUid="Part 7.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246598125</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="link1-2" uid="link1-2" entityUid="link1*:*Default">
+<Transform>
+<Rotation>-0.85770873707853335 -0.11973187687132228 -0.50000000000001776 0.49519837023860919 0.069127231342236681 -0.86602540378442827 0.13825446268447392 -0.9903967404771824 3.1849523018934178e-15</Rotation>
+<Translation>-0.0038610277876073426 0.23992052092829971 0.20863586291985653</Translation>
+</Transform>
+</Instance>
+<Instance name="base_XM430-1" uid="base_XM430-1" grounded="true" entityUid="base_XM430*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.094638925587402681 0.17958744471696764 0.18838586291986179</Translation>
+</Transform>
+</Instance>
+<Instance name="XM430-W350-R-3" uid="XM430-W350-R-3" entityUid="XM430-W350-R" rigid="true">
+<Transform>
+<Rotation>-1.0204255741040289e-16 -1.0547118733938987e-14 -1.0000000000000002 0 -1.0000000000000002 1.0547118733938987e-14 -1 0 1.0204255741040289e-16</Rotation>
+<Translation>0.12104712685496552 0.075441906273078396 0.20814914628942183</Translation>
+</Transform>
+<Instance name="XM430-W350-R.step-1" uid="XM430-W350-R.step-1" grounded="true" entityUid="XM430-W350-R.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Part 14.step-1" uid="Part 14.step-1" grounded="true" entityUid="Part 14.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 15.step-1" uid="Part 15.step-1" grounded="true" entityUid="Part 15.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 16.step-1" uid="Part 16.step-1" grounded="true" entityUid="Part 16.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 1.step-1" uid="Part 1.step-1" grounded="true" entityUid="Part 1.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 6.step-1" uid="Part 6.step-1" grounded="true" entityUid="Part 6.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 8.step-1" uid="Part 8.step-1" grounded="true" entityUid="Part 8.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 10.step-1" uid="Part 10.step-1" grounded="true" entityUid="Part 10.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 5.step-1" uid="Part 5.step-1" grounded="true" entityUid="Part 5.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 11.step-1" uid="Part 11.step-1" grounded="true" entityUid="Part 11.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 12.step-1" uid="Part 12.step-1" grounded="true" entityUid="Part 12.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 13.step-1" uid="Part 13.step-1" grounded="true" entityUid="Part 13.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 9.step-1" uid="Part 9.step-1" grounded="true" entityUid="Part 9.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 3.step-1" uid="Part 3.step-1" grounded="true" entityUid="Part 3.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 4.step-1" uid="Part 4.step-1" grounded="true" entityUid="Part 4.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 2.step-1" uid="Part 2.step-1" grounded="true" entityUid="Part 2.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 7.step-1" uid="Part 7.step-1" grounded="true" entityUid="Part 7.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388598683 -0.00059179873246599513</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="KCRM-06 -02-2" uid="KCRM-06 -02-2" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>4.9068960548693041e-13 -1.0007012617004022e-12 1 -0.0003875441090458627 0.99999992490477907 1.0008942363231977e-12 -0.99999992490477907 -0.00038754410904594087 4.9031792944878321e-13</Rotation>
+<Translation>0.1097591837715239 0.15096692984224563 0.48149294276888838</Translation>
+</Transform>
+</Instance>
+<Instance name="XM430-W350-R-1" uid="XM430-W350-R-1" entityUid="XM430-W350-R" rigid="true">
+<Transform>
+<Rotation>0 0.86602540378444881 0.49999999999998235 0 0.49999999999998235 -0.86602540378444881 -1 0 1.020425574103984e-16</Rotation>
+<Translation>0.1716275069368389 0.25453038710487336 0.2081491462894218</Translation>
+</Transform>
+<Instance name="XM430-W350-R.step-1" uid="XM430-W350-R.step-1" grounded="true" entityUid="XM430-W350-R.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Part 14.step-1" uid="Part 14.step-1" grounded="true" entityUid="Part 14.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 15.step-1" uid="Part 15.step-1" grounded="true" entityUid="Part 15.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 16.step-1" uid="Part 16.step-1" grounded="true" entityUid="Part 16.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 1.step-1" uid="Part 1.step-1" grounded="true" entityUid="Part 1.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 6.step-1" uid="Part 6.step-1" grounded="true" entityUid="Part 6.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 8.step-1" uid="Part 8.step-1" grounded="true" entityUid="Part 8.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 10.step-1" uid="Part 10.step-1" grounded="true" entityUid="Part 10.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 5.step-1" uid="Part 5.step-1" grounded="true" entityUid="Part 5.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 11.step-1" uid="Part 11.step-1" grounded="true" entityUid="Part 11.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 12.step-1" uid="Part 12.step-1" grounded="true" entityUid="Part 12.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 13.step-1" uid="Part 13.step-1" grounded="true" entityUid="Part 13.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 9.step-1" uid="Part 9.step-1" grounded="true" entityUid="Part 9.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 3.step-1" uid="Part 3.step-1" grounded="true" entityUid="Part 3.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 4.step-1" uid="Part 4.step-1" grounded="true" entityUid="Part 4.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 2.step-1" uid="Part 2.step-1" grounded="true" entityUid="Part 2.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+<Instance name="Part 7.step-1" uid="Part 7.step-1" grounded="true" entityUid="Part 7.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.00048671663044000391 -0.00067553844388601458 -0.000591798732466009</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="KCRM-06-01-2" uid="KCRM-06-01-2" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>-0.81554292959068697 -0.0036597927454036683 -0.57868500577749582 -0.3808490550261997 0.75629646321793198 0.53194892330908783 0.43571060037631676 0.65421882091629546 -0.61818606186050629</Rotation>
+<Translation>0.10986897750498224 0.12827803595474169 0.46186637814946796</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06-01-1" uid="KCRM-06-01-1" entityUid="KCRM-06-01*:*Default">
+<Transform>
+<Rotation>0.99925590668417363 0.0036597927454035447 -0.03839581844226321 0.027885469311971639 -0.75629646321793265 0.65363450056227712 -0.026646454886938245 -0.6542188209162948 -0.75583576311315903</Rotation>
+<Translation>0.11102913180500892 -0.11146794288545585 0.25447901191912581</Translation>
+</Transform>
+</Instance>
+<Instance name="KCRM-06 -02-1" uid="KCRM-06 -02-1" entityUid="KCRM-06 -02*:*Default">
+<Transform>
+<Rotation>9.3515668528894693e-15 4.8126111329655787e-15 0.99999999999999989 0.89406298057850797 0.44794127601625899 -1.0516656905444191e-14 -0.44794127601625899 0.89406298057850797 -1.138246650698551e-16</Rotation>
+<Translation>0.11113892558742938 -0.13415683678182763 0.23485244729171836</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>0.086035851759840395 0.073921533479498924 -0.0040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-1</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.01125000000000001 0.0080000000000000626 0.0060000000000000053</Position>
+<Axis>-1 0 1.0204255741039999e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>0.059251242069013846 0.072313838324912727 -0.0040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-1</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.011249999999999982 -0.015999999999999959 -0.0060000000000000053</Position>
+<Axis>-1 0 1.0204255741039999e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>XM430-W350-R-1</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.014249999999999985 0.023250000000000048 -0.0085000000000000075</Position>
+<Axis>1 0 -1.0204255741039999e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>0.021000000000028815 -0.11147000000000315 -0.0040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-3</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.01125000000000001 0.0079999999999999932 0.0059999999999999915</Position>
+<Axis>-1 0 1.0204255741040002e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>0.033000000000029076 -0.087470000000003267 -0.0040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-3</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.01125000000000001 -0.016000000000000014 -0.0060000000000000053</Position>
+<Axis>-1 0 1.0204255741040002e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>XM430-W350-R-3</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.014250000000000013 0.023249999999999993 -0.0085000000000000075</Position>
+<Axis>1 0 -1.0204255741040002e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>-0.10703585175986836 0.03754846652050392 -0.0040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-2</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.01125000000000001 0.0080000000000000071 0.0059999999999999776</Position>
+<Axis>-1 0 1.0204255741039999e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>-0.092251242069042158 0.015156161675090402 -0.0040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-2</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.01125000000000001 -0.015999999999999986 -0.0060000000000000053</Position>
+<Axis>-1 0 1.0204255741039999e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>base_XM430-1</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>XM430-W350-R-2</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 16.step-1</Uid>
+</InstancePath>
+<Position>0.014250000000000013 0.023249999999999993 -0.0085000000000000075</Position>
+<Axis>1 0 -1.0204255741039999e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-1</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 1.step-1</Uid>
+</InstancePath>
+<Position>0 0.012000000000000011 0.022000000000000006</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>link1-1</Uid>
+</InstancePath>
+<Position>0 0 0.0099999999999999811</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-3</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 1.step-1</Uid>
+</InstancePath>
+<Position>0 0.011999999999999997 0.022000000000000006</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>link1-3</Uid>
+</InstancePath>
+<Position>0 0 0.009999999999999995</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>XM430-W350-R-1</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 1.step-1</Uid>
+</InstancePath>
+<Position>0 0.011999999999999955 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>link1-1</Uid>
+</InstancePath>
+<Position>0.15030166314964044 -0.14216332176216218 0.0099999999999999534</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>XM430-W350-R-3</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 1.step-1</Uid>
+</InstancePath>
+<Position>0 0.011999999999999997 0.020000000000000004</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>link1-3</Uid>
+</InstancePath>
+<Position>0.15030166314964044 -0.14216332176216229 0.009999999999999995</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>XM430-W350-R-2</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 1.step-1</Uid>
+</InstancePath>
+<Position>0 0.011999999999999997 0.021999999999999992</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>link1-2</Uid>
+</InstancePath>
+<Position>0 0 0.0099999999999999811</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>XM430-W350-R-2</Uid>
+<Uid>XM430-W350-R.step-1</Uid>
+<Uid>Part 1.step-1</Uid>
+</InstancePath>
+<Position>0 0.012000000000000011 0.01999999999999999</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>link1-2</Uid>
+</InstancePath>
+<Position>0.15030166314964036 -0.14216332176216218 0.0099999999999999534</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-1</Uid>
+</InstancePath>
+<Position>0 0.35000000000000003 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-1</Uid>
+</InstancePath>
+<Position>0 0.35000000000000003 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-1</Uid>
+</InstancePath>
+<Position>0 0.016499999999999959 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-2</Uid>
+</InstancePath>
+<Position>2.7616797737550769e-14 0 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-1</Uid>
+</InstancePath>
+<Position>2.7616797737550769e-14 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-1</Uid>
+</InstancePath>
+<Position>0 0.33350000000000002 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-1</Uid>
+</InstancePath>
+<Position>0 0.029999999999999999 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-2</Uid>
+</InstancePath>
+<Position>0 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-3</Uid>
+</InstancePath>
+<Position>2.758904216193514e-14 0 0</Position>
+<Axis>0 -1 2.6367796834847468e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-2</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.016499999999999987 0</Position>
+<Axis>1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-2</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.34999999999999998 0</Position>
+<Axis>1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 -2.6367796834847468e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-2</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.34999999999999998 0</Position>
+<Axis>1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-3</Uid>
+</InstancePath>
+<Position>0 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-2</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.33349999999999996 0</Position>
+<Axis>-1.1102230246251565e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-4</Uid>
+</InstancePath>
+<Position>2.758904216193514e-14 0 0</Position>
+<Axis>0 -1 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-4</Uid>
+</InstancePath>
+<Position>0 0.029999999999999999 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-5</Uid>
+</InstancePath>
+<Position>2.7644553313166398e-14 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-3</Uid>
+</InstancePath>
+<Position>0 0.016499999999999987 0</Position>
+<Axis>-1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-3</Uid>
+</InstancePath>
+<Position>0 0.34999999999999987 0</Position>
+<Axis>-1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 -2.2204460492503131e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-3</Uid>
+</InstancePath>
+<Position>0 0.34999999999999987 0</Position>
+<Axis>-1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident17">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-5</Uid>
+</InstancePath>
+<Position>0 0.030000000000000013 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-3</Uid>
+</InstancePath>
+<Position>0 0.33349999999999991 0</Position>
+<Axis>1.1102230246251565e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-6</Uid>
+</InstancePath>
+<Position>2.7616797737550769e-14 0 0</Position>
+<Axis>0 -1 2.2204460492503131e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident19">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-6</Uid>
+</InstancePath>
+<Position>0 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-7</Uid>
+</InstancePath>
+<Position>2.7644553313166398e-14 0 0</Position>
+<Axis>0 -1 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-4</Uid>
+</InstancePath>
+<Position>0 0.016500000000000015 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-4</Uid>
+</InstancePath>
+<Position>0 0.34999999999999998 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-8</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.0000000000000002 -1.3877787807814457e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-7</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-4</Uid>
+</InstancePath>
+<Position>0 0.34999999999999998 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident21">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-7</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-7</Uid>
+</InstancePath>
+<Position>0 0.029999999999999999 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident22">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-4</Uid>
+</InstancePath>
+<Position>0 0.33349999999999991 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-8</Uid>
+</InstancePath>
+<Position>2.7533531010703882e-14 0 0</Position>
+<Axis>0 -1.0000000000000002 1.3877787807814457e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident23">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-8</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-8</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-9</Uid>
+</InstancePath>
+<Position>2.7644553313166398e-14 0 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-5</Uid>
+</InstancePath>
+<Position>0 0.016499999999999959 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-5</Uid>
+</InstancePath>
+<Position>0 0.34999999999999987 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-10</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-9</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-5</Uid>
+</InstancePath>
+<Position>0 0.34999999999999987 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident25">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-9</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-9</Uid>
+</InstancePath>
+<Position>0 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-5</Uid>
+</InstancePath>
+<Position>0 0.33349999999999985 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-10</Uid>
+</InstancePath>
+<Position>2.7533531010703882e-14 0 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident27">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-10</Uid>
+</InstancePath>
+<Position>0 0.029999999999999971 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-10</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident28">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-11</Uid>
+</InstancePath>
+<Position>2.7533531010703882e-14 0 1.1102230246251565e-16</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-6</Uid>
+</InstancePath>
+<Position>0 0.016499999999999959 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-6</Uid>
+</InstancePath>
+<Position>0 0.34999999999999998 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-12</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric21">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06-01-11</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-6</Uid>
+</InstancePath>
+<Position>0 0.34999999999999998 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident29">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-11</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-11</Uid>
+</InstancePath>
+<Position>0 0.029999999999999999 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident30">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>lower_link-6</Uid>
+</InstancePath>
+<Position>0 0.33350000000000002 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06-01-12</Uid>
+</InstancePath>
+<Position>2.7644553313166398e-14 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident31">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06-01-12</Uid>
+</InstancePath>
+<Position>0 0.030000000000000027 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KCRM-06 -02-12</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric22">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>link1-1</Uid>
+</InstancePath>
+<Position>0.19999955074055803 0.00042391458457574638 0.0099999999999999811</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-1</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident32">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>link1-1</Uid>
+</InstancePath>
+<Position>0.15030166314964039 -0.14216332176216223 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-1</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric24">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>link1-3</Uid>
+</InstancePath>
+<Position>0.19999955074055797 0.00042391458457580189 0.009999999999999995</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-3</Uid>
+</InstancePath>
+<Position>0 0 0.016</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident33">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>link1-3</Uid>
+</InstancePath>
+<Position>0.15030166314964044 -0.14216332176216229 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-3</Uid>
+</InstancePath>
+<Position>0 0 0.016</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric25">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>link1-2</Uid>
+</InstancePath>
+<Position>0.19999955074055795 0.00042391458457577413 0.0099999999999999534</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-2</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident34">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>link1-2</Uid>
+</InstancePath>
+<Position>0.15030166314964036 -0.14216332176216223 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-2</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric26">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-10</Uid>
+</InstancePath>
+<Position>0 0 -0.0045000000000000595</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-1</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 -0.0089999999999999941</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric27">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-4</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-1</Uid>
+</InstancePath>
+<Position>0 0 0.033000000000000002</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric28">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-1</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0089999999999999941</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric29">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-5</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-3</Uid>
+</InstancePath>
+<Position>0 0 0.033000000000000002</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric30">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-11</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>-1.6214253470630718e-16 -1.0036920127881841e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0089999999999999802</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric31">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-7</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-2</Uid>
+</InstancePath>
+<Position>0 0 0.033000000000000002</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric32">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>New_end_effector_holder-1</Uid>
+</InstancePath>
+<Position>0.03481188913245542 0.02950000000000021 0.0069999999999999507</Position>
+<Axis>-1.0000000000000002 -5.3290705195530491e-15 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-4</Uid>
+</InstancePath>
+<Position>0 0 0.015999999999999986</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident41">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_end_effector_holder-1</Uid>
+</InstancePath>
+<Position>0.0070000000000000062 0.037000000000000012 0.013999999999999957</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-4</Uid>
+</InstancePath>
+<Position>0 0 0.015999999999999986</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric33">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>New_end_effector_holder-1</Uid>
+</InstancePath>
+<Position>-0.050272624677469152 0.028074740171216462 0.0070000000000000062</Position>
+<Axis>0.50000000000000877 -0.86602540378443371 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-5</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident42">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_end_effector_holder-1</Uid>
+</InstancePath>
+<Position>-0.035542939940024249 -0.012437822173508957 0.014000000000000012</Position>
+<Axis>-0.50000000000000155 0.86602540378443782 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-5</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric34">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>New_end_effector_holder-1</Uid>
+</InstancePath>
+<Position>0.0060255964289269714 -0.048563360839192965 0.0070000000000000062</Position>
+<Axis>0.49999999999999978 0.86602540378443904 1.1557972565383341e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-6</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident43">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_end_effector_holder-1</Uid>
+</InstancePath>
+<Position>0.028542939940024242 -0.024562177826491057 0.013999999999999957</Position>
+<Axis>-0.50000000000000022 -0.86602540378443871 -1.1557972565383341e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-6</Uid>
+</InstancePath>
+<Position>0 0 0.016000000000000014</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric35">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0045000000000000179</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-6</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 0.033000000000000029</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric36">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-9</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-6</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 -0.0089999999999999525</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric37">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-8</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-4</Uid>
+</InstancePath>
+<Position>0 0 0.033000000000000002</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric38">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-12</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>1.053060872520157e-16 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-4</Uid>
+</InstancePath>
+<Position>0 0 -0.009000000000000008</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric39">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-6</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-5</Uid>
+</InstancePath>
+<Position>0 0 0.033000000000000015</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric40">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KCRM-06 -02-2</Uid>
+</InstancePath>
+<Position>0 0 -0.004500000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>custom_pin-5</Uid>
+</InstancePath>
+<Position>0 0 -0.009000000000000008</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident50">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-5</Uid>
+</InstancePath>
+<Position>0 0.0044802343688696289 0.004500000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-3</Uid>
+</InstancePath>
+<Position>0 0 0.0315</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident51">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-1</Uid>
+</InstancePath>
+<Position>0 0.0044802343688695734 0.0044999999999999901</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0079999999999999932</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident52">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-11</Uid>
+</InstancePath>
+<Position>0 0.0044802343688695734 0.0044999999999999485</Position>
+<Axis>-1.6214253470630718e-16 -1.0036920127881841e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000071</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident53">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-7</Uid>
+</InstancePath>
+<Position>0 0.0044802343688696289 0.0045000000000000318</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-2</Uid>
+</InstancePath>
+<Position>0 0 0.0315</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident54">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-10</Uid>
+</InstancePath>
+<Position>0 0.0044802343688695734 0.0044999999999999901</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-1</Uid>
+</InstancePath>
+<Position>0 0 -0.008000000000000021</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident55">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-4</Uid>
+</InstancePath>
+<Position>0 0.0044802343688695734 0.0044999999999999762</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-1</Uid>
+</InstancePath>
+<Position>0 0 0.0315</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident56">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-3</Uid>
+</InstancePath>
+<Position>0 0.0044802343688695734 0.0045000000000000179</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-6</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 0.031500000000000014</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident57">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-2</Uid>
+</InstancePath>
+<Position>0 0.0044802343688696011 0.004500000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-5</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000071</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident58">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-6</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 -0.0045000000000000179</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-5</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 0.031500000000000014</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident59">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-12</Uid>
+</InstancePath>
+<Position>0 0.0044802343688695734 0.004500000000000004</Position>
+<Axis>1.053060872520157e-16 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-4</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000071</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident60">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-8</Uid>
+</InstancePath>
+<Position>0 0.0044802343688695734 0.0045000000000000318</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-4</Uid>
+</InstancePath>
+<Position>0 0 0.031499999999999972</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident61">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KCRM-06 -02-9</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 -0.0045000000000000179</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>custom_pin-6</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 -0.0079999999999999793</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-2</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.34999999999999998 0</Position>
+<Axis>1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-5</Uid>
+</InstancePath>
+<Position>0 0.34999999999999987 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="Parallel2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-4</Uid>
+</InstancePath>
+<Position>0 0.34999999999999998 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-6</Uid>
+</InstancePath>
+<Position>0 0.34999999999999998 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="Parallel3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-1</Uid>
+</InstancePath>
+<Position>0 0.35000000000000003 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>lower_link-3</Uid>
+</InstancePath>
+<Position>0 0.34999999999999987 0</Position>
+<Axis>-1.1102230246251565e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="XM430-W350-R" uid="XM430-W350-R" version="131">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="XM430-W350-R.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="XM430-W350-R.step" uid="XM430-W350-R.step" version="103">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="XM430-W350-R.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="KCRM-06 -02" uid="KCRM-06 -02*:*Default" version="108">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KCRM-06 -02.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00069477106932305398</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>1.1311290452612175e-08 1.1311290452612175e-08 1.5304370409383386e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="KCRM-06 -02_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0.50196078431372548" b="0.25098039215686274" a="1"/>
+<Diffuse r="1" g="0.50196078431372548" b="0.25098039215686274" a="1"/>
+<Specular r="0.5" g="0.25098039215686274" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KCRM-06-01" uid="KCRM-06-01*:*Default" version="126">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KCRM-06-01.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0026833876571372094</Mass>
+<CenterOfMass>3.2191774220742391e-11 0.019237153775484555 3.0881947884200045e-12</CenterOfMass>
+<Inertia>3.498174220851498e-07 6.890422736506307e-08 3.8837480630053194e-07 0 5.2103270851070339e-13 0</Inertia>
+</MassProperties>
+<GeometryFile name="KCRM-06-01_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="0" b="0" a="1"/>
+<Diffuse r="0" g="0" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="New_end_effector_holder" uid="New_end_effector_holder*:*Default" version="370">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="New_end_effector_holder.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.017745119825864158</Mass>
+<CenterOfMass>0 -2.7714925772215044e-10 0.0065688939173786506</CenterOfMass>
+<Inertia>4.616272500513423e-06 4.6162737773318228e-06 8.6172036124942922e-06 2.1202027082952569e-15 1.2686273916828665e-12 0</Inertia>
+</MassProperties>
+<GeometryFile name="New_end_effector_holder_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.66666666666666663" g="0.69803921568627447" b="0.76862745098039209" a="1"/>
+<Diffuse r="0.66666666666666663" g="0.69803921568627447" b="0.76862745098039209" a="1"/>
+<Specular r="0.33333333333333331" g="0.34901960784313724" b="0.38431372549019605" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 1.step" uid="Part 1.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 1.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00065695284289772485</Mass>
+<CenterOfMass>0 0.011999851063695124 0.019286777102707819</CenterOfMass>
+<Inertia>1.4226703246443024e-08 1.4226995841825679e-08 2.7370353093020622e-08 2.605807244600159e-13 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 1.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="0.75294117647058822" a="1"/>
+<Diffuse r="1" g="1" b="0.75294117647058822" a="1"/>
+<Specular r="0.5" g="0.5" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 10.step" uid="Part 10.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 10.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6926890787259214e-05</Mass>
+<CenterOfMass>-0.010999999999999998 0.020000000000000011 0.014636160137372395</CenterOfMass>
+<Inertia>8.5568062184152519e-11 8.5568062184152726e-11 8.6107439631537846e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 10.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 11.step" uid="Part 11.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 11.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6926890787259194e-05</Mass>
+<CenterOfMass>0.010999999999999999 -0.02 -0.014636160137372395</CenterOfMass>
+<Inertia>8.5568062184152545e-11 8.5568062184152597e-11 8.6107439631537846e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 11.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 12.step" uid="Part 12.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 12.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6926890787259384e-05</Mass>
+<CenterOfMass>-0.011000000000000005 -0.019999999999999997 -0.0146361601373724</CenterOfMass>
+<Inertia>8.5568062184152804e-11 8.5568062184153334e-11 8.6107439631538092e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 12.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 13.step" uid="Part 13.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 13.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6926890787259208e-05</Mass>
+<CenterOfMass>-0.010999999999999999 0.020000000000000011 -0.014636160137372395</CenterOfMass>
+<Inertia>8.5568062184152519e-11 8.5568062184152713e-11 8.6107439631537833e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 13.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 14.step" uid="Part 14.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 14.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6486038993245023e-05</Mass>
+<CenterOfMass>0.011000000000000001 0.02 -0.014622097747879261</CenterOfMass>
+<Inertia>8.4426276363549558e-11 8.4426276363549649e-11 8.5326487461305482e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 14.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 15.step" uid="Part 15.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 15.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00042725660088821157</Mass>
+<CenterOfMass>0 0.012000000000000005 -0.018000000000000006</CenterOfMass>
+<Inertia>1.2629120655122256e-08 1.2629120655122256e-08 2.4973403576319041e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 15.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 16.step" uid="Part 16.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 16.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.022256779314057066</Mass>
+<CenterOfMass>0 3.1970966059255304e-05 -6.7921887594209046e-06</CenterOfMass>
+<Inertia>4.4840114474449044e-06 2.0174099166746756e-06 5.4330223120481699e-06 2.4550339250060491e-09 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 16.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 2.step" uid="Part 2.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 2.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.7628709523458828e-06</Mass>
+<CenterOfMass>-6.9637002246566807e-10 -0.018171420610717463 0.016949999975229654</CenterOfMass>
+<Inertia>2.2172065115752016e-11 1.1229346672893568e-10 1.3445259373327072e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 2.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="0" b="0" a="1"/>
+<Diffuse r="0" g="0" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 3.step" uid="Part 3.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 3.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2.4428757530216099e-06</Mass>
+<CenterOfMass>2.6125663167077447e-10 -0.014321945818330075 0.016949999994979835</CenterOfMass>
+<Inertia>7.2110243911253238e-13 3.3867807312135398e-11 3.4584838292095601e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 3.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 4.step" uid="Part 4.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 4.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010843961731388111</Mass>
+<CenterOfMass>0 9.9198139448657202e-06 0.01267592712416399</CenterOfMass>
+<Inertia>1.9274444581019083e-06 7.7247365234811397e-07 2.5702315069090596e-06 -5.6908979749433642e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 4.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 5.step" uid="Part 5.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 5.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6000000000000035e-05</Mass>
+<CenterOfMass>0 0.022500000000000003 -0.0155</CenterOfMass>
+<Inertia>3.3750000000000045e-11 2.1900000000000025e-10 1.9875000000000024e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 5.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 6.step" uid="Part 6.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 6.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.008472844666290771</Mass>
+<CenterOfMass>0 -0.0006090956644099609 -0.012559911871766527</CenterOfMass>
+<Inertia>1.7814954039577005e-06 5.779784842933778e-07 2.2598815977306919e-06 -3.2186662651528682e-09 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 6.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.43137254901960786" g="0.43137254901960786" b="0.43137254901960786" a="1"/>
+<Diffuse r="0.43137254901960786" g="0.43137254901960786" b="0.43137254901960786" a="1"/>
+<Specular r="0.21568627450980393" g="0.21568627450980393" b="0.21568627450980393" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 7.step" uid="Part 7.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 7.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6926890787259384e-05</Mass>
+<CenterOfMass>-0.011000000000000005 -0.019999999999999997 0.0146361601373724</CenterOfMass>
+<Inertia>8.5568062184152817e-11 8.5568062184153346e-11 8.6107439631538092e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 7.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 8.step" uid="Part 8.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 8.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6926890787259194e-05</Mass>
+<CenterOfMass>0.010999999999999999 -0.02 0.014636160137372395</CenterOfMass>
+<Inertia>8.5568062184152545e-11 8.5568062184152623e-11 8.6107439631537846e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 8.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part 9.step" uid="Part 9.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part 9.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.6486038993245023e-05</Mass>
+<CenterOfMass>0.011000000000000001 0.02 0.014622097747879261</CenterOfMass>
+<Inertia>8.4426276363549558e-11 8.4426276363549649e-11 8.5326487461305495e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part 9.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="base_XM430" uid="base_XM430*:*Default" version="536">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="base_XM430.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.23956249144680292</Mass>
+<CenterOfMass>0 -9.9884921948424352e-16 0.0029999999999999996</CenterOfMass>
+<Inertia>0.00097569296005747136 0.00096625320589308159 0.0019405087910018726 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="base_XM430_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="0" b="0" a="1"/>
+<Diffuse r="0" g="0" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="custom_pin" uid="custom_pin*:*Default" version="1252">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="custom_pin.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.012989166132166356</Mass>
+<CenterOfMass>1.1662053972157305e-08 2.0579200362969926e-08 0.01299167758812572</CenterOfMass>
+<Inertia>1.1120121946628663e-06 1.1200317676889974e-06 1.3778809358316364e-07 -2.3694252457848105e-10 1.2027043511847664e-12 1.4369012945702004e-10</Inertia>
+</MassProperties>
+<GeometryFile name="custom_pin_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.45294117647058824" g="0.43372549019607842" b="0.41176470588235292" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="link1" uid="link1*:*Default" version="314">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="link1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.079936430649954412</Mass>
+<CenterOfMass>0.080004789911219981 0.0076926405262176811 0.0038526430723059999</CenterOfMass>
+<Inertia>7.750561489250108e-06 0.00041607407562487832 0.00042283372105777052 4.4769760855779785e-07 1.9097023072326902e-06 -1.2828045479943545e-05</Inertia>
+</MassProperties>
+<GeometryFile name="link1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.66666666666666663" g="0.69803921568627447" b="0.76862745098039209" a="1"/>
+<Diffuse r="0.66666666666666663" g="0.69803921568627447" b="0.76862745098039209" a="1"/>
+<Specular r="0.33333333333333331" g="0.34901960784313724" b="0.38431372549019605" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="lower_link" uid="lower_link*:*Default" version="167">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="lower_link.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.073282337791738261</Mass>
+<CenterOfMass>-6.5378949766856975e-10 0.17499896739744347 2.6492595684468711e-07</CenterOfMass>
+<Inertia>0.00067949385341753627 3.2176670245608431e-07 0.00067949384126061139 -2.1145726442706625e-11 8.2922173499535857e-13 6.9662608611776155e-10</Inertia>
+</MassProperties>
+<GeometryFile name="lower_link_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.45294117647058824" g="0.43372549019607842" b="0.41176470588235292" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
